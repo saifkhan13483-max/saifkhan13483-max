@@ -133,8 +133,6 @@ I'm a senior full-stack developer and the founder of **[SaifCraft](https://saifc
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Activity
 
 <div align="center">
