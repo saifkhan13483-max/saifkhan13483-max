@@ -137,8 +137,8 @@ I'm a senior full-stack developer and the founder of **[SaifCraft](https://saifc
 
 <div align="center">
 
-<a href="https://saifcraft.com/projects/saifcraft">
-  <img src="https://your-cloudinary-url/saifcraft-preview.png" width="45%" alt="SaifCraft Studio" />
+<a href="[https://saifcraft.com/projects/saifcraft](https://portfolio-wheat-iota-47.vercel.app/portfolio/72XT0r5v3SRIsxFsDR4M)">
+  <img src="[https://your-cloudinary-url/saifcraft-preview.png" width="45%" alt="SaifCraft Studio](https://res.cloudinary.com/de2wrwg6e/image/upload/v1778570551/ChatGPT_Image_May_12_2026_12_08_07_PM_qpadbz.jpg)" />
 </a>
 <a href="https://saifcraft.com/projects/shopflow">
   <img src="https://your-cloudinary-url/shopflow-preview.png" width="45%" alt="ShopFlow" />
