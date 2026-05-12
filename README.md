@@ -135,13 +135,24 @@ I'm a senior full-stack developer and the founder of **[SaifCraft](https://saifc
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-![Saif Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<!-- Primary stats — with cache buster and fallback theme -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saifkhan&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Trophies — looks great even with modest stats -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
