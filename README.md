@@ -1,22 +1,25 @@
 <div align="center">
 
 <!-- Optional banner: replace with your own banner image hosted on Cloudinary or GitHub -->
-<!-- <img src="https://your-cdn.com/banner.png" alt="Saif Khan — Senior Full-Stack Developer" width="100%" /> -->
+<!-- <img src="https://your-cdn.com/saifcraft-banner.png" alt="Saif Khan — Senior Full-Stack Developer" width="100%" /> -->
 
 # Hi, I'm Saif Khan 👋
 
-### Senior Full-Stack Developer
-**React · Node.js · TypeScript · Firebase · AI / LLM Integration**
+### Senior Full-Stack Developer · Founder of **SaifCraft**
+**React · Next.js · Node.js · TypeScript · Firebase · AI / LLM Integration**
+
+> *Crafting fast, reliable, AI-powered web apps for founders who want to ship — not babysit a dev team.*
 
 🌍 Based in Pakistan · Working 100% remotely with clients in 🇺🇸 🇬🇧 🇪🇺 🇦🇪 🌏
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devstudio.com)
-[![Email](https://img.shields.io/badge/Email-saif@devstudio.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saif@devstudio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saifcraft.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saifcraft.com)
+[![Email](https://img.shields.io/badge/Email-hello@saifcraft.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@saifcraft.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923188055850)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifkhan)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saifkhan&color=4F46E5&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/saifkhan?style=flat-square&color=4F46E5&label=Followers)
+![Stars](https://img.shields.io/github/stars/saifkhan?style=flat-square&color=4F46E5&label=Total+Stars)
 
 </div>
 
@@ -24,10 +27,10 @@
 
 ## 🚀 About Me
 
-I'm a senior full-stack developer who turns ideas into **production-ready web applications — fast, clean, and on budget.** I work directly with founders and product teams (no middlemen, no agencies in between) to ship reliable software with measurable outcomes.
+I'm a senior full-stack developer and the founder of **[SaifCraft](https://saifcraft.com)** — a solo studio where I turn ideas into **production-ready web apps: fast, clean, and on budget.** I work directly with founders and product teams (no middlemen, no agencies, no junior hand-offs) to ship reliable software with measurable outcomes.
 
 - 🏗️ Build **scalable web apps** with React, Next.js, Node.js, TypeScript, and PostgreSQL
-- 🤖 Integrate **AI features** using Google Gemini, OpenAI, and Anthropic Claude APIs
+- 🤖 Integrate **AI features** using Google Gemini, OpenAI GPT, and Anthropic Claude
 - ☁️ Deploy on **Firebase, Vercel, and Cloudinary** for fast, global delivery
 - 📦 Delivered **48+ projects** to **29+ happy clients** across 4 continents
 - 🎯 **Results-first** — every engagement starts with a clear, measurable success metric
@@ -79,7 +82,7 @@ I'm a senior full-stack developer who turns ideas into **production-ready web ap
 </td>
 <td valign="top" width="50%">
 
-**AI / Cloud / DevOps**
+**AI · Cloud · DevOps**
 <br><br>
 
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -97,9 +100,9 @@ I'm a senior full-stack developer who turns ideas into **production-ready web ap
 
 ## 🏆 Featured Projects
 
-### 🎨 DevStudio — Digital Agency Platform
+### 🎨 SaifCraft — Studio Platform & Client Hub
 
-> Full-stack portfolio and client-management platform featuring an AI chatbot (Google Gemini with multi-model fallback), a real-time admin dashboard, Firebase Firestore backend, and Cloudinary-powered image delivery.
+> The flagship platform behind **[saifcraft.com](https://saifcraft.com)** — a full-stack studio site featuring an AI chatbot (Google Gemini with multi-model fallback), a real-time admin dashboard, Firebase Firestore backend, and Cloudinary-powered image delivery.
 
 **Highlights**
 - ⚡ Sub-second page loads with Vite + edge caching
@@ -109,14 +112,14 @@ I'm a senior full-stack developer who turns ideas into **production-ready web ap
 
 **Stack:** React · TypeScript · Firebase · Google Gemini · Cloudinary · Tailwind CSS · Framer Motion
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://devstudio.com)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifkhan/devstudio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-saifcraft.com-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://saifcraft.com)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifkhan/saifcraft)
 
 ---
 
 ### 🛒 ShopFlow — AI-Powered E-Commerce Assistant
 
-> Headless e-commerce storefront with an AI shopping assistant that helps customers find products through natural-language conversation. Cut customer-support tickets by **42%** in the first month.
+> Headless e-commerce storefront with an AI shopping assistant that helps customers find products through natural-language conversation. **Cut customer-support tickets by 42%** in the first month.
 
 **Highlights**
 - 🧠 Natural-language product search using vector embeddings
@@ -146,7 +149,7 @@ I'm a senior full-stack developer who turns ideas into **production-ready web ap
 
 ## 💬 What Clients Say
 
-> *"Saif delivered our entire platform in 6 weeks — clean code, no bugs at launch, and communicated every step. Best hire we've made."*
+> *"Saif delivered our entire platform in 6 weeks — clean code, zero bugs at launch, and clear communication every step of the way. Best hire we've made."*
 > — **James Carter**, CEO at LaunchPad SaaS
 
 > *"We needed an AI chatbot fast. Saif had it live in 10 days. Responsive, professional, and incredibly skilled."*
@@ -159,7 +162,7 @@ I'm a senior full-stack developer who turns ideas into **production-ready web ap
 
 ## 🤝 Work With Me
 
-I'm currently **available for new projects starting June 2026**.
+I'm currently **available for new projects starting June 2026.**
 
 Fixed-scope packages with transparent pricing. No hourly billing. No surprises.
 
@@ -171,7 +174,9 @@ Fixed-scope packages with transparent pricing. No hourly billing. No surprises.
 | 🤖 AI Feature Add-On | $1,200 – $3,000 | 1–3 weeks |
 | 🔧 Monthly Retainer | $550 – $950/mo | Min. 3 months |
 
-**Every project includes:** source code on GitHub, live URL, Loom walkthrough, full documentation, and 30 days of free support.
+**Every project includes:** full source code on GitHub, live deployment, Loom walkthrough, complete documentation, and **30 days of free post-launch support.**
+
+👉 **See full details and book a free 20-min discovery call at [saifcraft.com](https://saifcraft.com)**
 
 ---
 
@@ -179,14 +184,15 @@ Fixed-scope packages with transparent pricing. No hourly billing. No surprises.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-saif@devstudio.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saif@devstudio.com)
+[![Email](https://img.shields.io/badge/Email_Me-hello@saifcraft.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@saifcraft.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_318_8055850-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923188055850)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devstudio.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devstudio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saifcraft.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saifcraft.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saif_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifkhan)
 
 ---
 
-*Senior Full-Stack Developer · AI Specialist · 48+ Projects Delivered · 94% Client Satisfaction · Remote Worldwide*
+### *Senior Full-Stack Developer · AI Specialist · 48+ Projects Delivered · 94% Client Satisfaction · Remote Worldwide*
 
-⭐️ From [Saif Khan](https://github.com/saifkhan) — if you found this useful, drop a follow!
+⭐️ Built with care by [**Saif Khan**](https://github.com/saifkhan) at [SaifCraft](https://saifcraft.com) — if this README helped you, drop a follow!
 
 </div>
