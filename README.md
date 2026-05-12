@@ -133,24 +133,20 @@ I'm a senior full-stack developer and the founder of **[SaifCraft](https://saifc
 
 ---
 
-## 📊 GitHub Activity
+## 📂 Recent Work
 
 <div align="center">
 
-<!-- Primary stats — with cache buster and fallback theme -->
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<a href="https://saifcraft.com/projects/saifcraft">
+  <img src="https://your-cloudinary-url/saifcraft-preview.png" width="45%" alt="SaifCraft Studio" />
+</a>
+<a href="https://saifcraft.com/projects/shopflow">
+  <img src="https://your-cloudinary-url/shopflow-preview.png" width="45%" alt="ShopFlow" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<!-- Trophies — looks great even with modest stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+**[→ View all 48 projects at saifcraft.com](https://saifcraft.com)**
 
 </div>
 
