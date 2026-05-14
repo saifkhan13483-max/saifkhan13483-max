@@ -117,22 +117,6 @@ I'm a senior full-stack developer and the founder of **[SaifCraft](https://saifc
 
 ---
 
-### 🛒 ShopFlow — AI-Powered E-Commerce Assistant
-
-> Headless e-commerce storefront with an AI shopping assistant that helps customers find products through natural-language conversation. **Cut customer-support tickets by 42%** in the first month.
-
-**Highlights**
-- 🧠 Natural-language product search using vector embeddings
-- 💳 Stripe checkout with subscription support
-- 📱 Mobile-first PWA with offline cart persistence
-
-**Stack:** Next.js · Node.js · PostgreSQL · Prisma · OpenAI · Stripe
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://shopflow.example.com)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifkhan/shopflow)
-
----
-
 ## 📂 Recent Work
 
 <div align="center">
