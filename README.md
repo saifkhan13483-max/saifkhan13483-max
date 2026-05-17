@@ -125,7 +125,7 @@ I'm a senior full-stack developer and the founder of **[SaifCraft](https://saifc
   <img src="https://res.cloudinary.com/de2wrwg6e/image/upload/v1778570551/ChatGPT_Image_May_12_2026_12_08_07_PM_qpadbz.jpg" />
 </a>
 <a href="https://portfolio-wheat-iota-47.vercel.app/portfolio/cAo7fbKYusx2najyKmx3">
-  <img src="https://res.cloudinary.com/de2wrwg6e/image/upload/v1771405164/ChatGPT_Image_Feb_18_2026_09_27_32_AM_hmkknf.jpg" />
+  <img src="https://res.cloudinary.com/de2wrwg6e/image/upload/v1779034429/Portfolio_Mochups_j5eoj5.jpg" />
 </a>
 
 <br/><br/>
