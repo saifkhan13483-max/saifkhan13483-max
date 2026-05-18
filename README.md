@@ -17,10 +17,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923188055850)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifkhan)
 
-![Profile Views](https://komarev.com/ghpvc/?username=saifkhan&color=4F46E5&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/saifkhan?style=flat-square&color=4F46E5&label=Followers)
-![Stars](https://img.shields.io/github/stars/saifkhan?style=flat-square&color=4F46E5&label=Total+Stars)
-
 </div>
 
 ---
